@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "product": [
+    {
+      "id": "101",
+      "name": "iphone",
+      "image": "https://www.pngitem.com/pimgs/m/213-2130263_iphone-xs-max-silver-hd-png-download.png"
+    },
+    {
+      "id": "102",
+      "name": "Samsung",
+      "image": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+    },
+    {
+      "id": "103",
+      "name": "Redmi",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/3EC458F8-DBC7-156A-635D-6B13FE1A78E0.jpg"
+    },
+    {
+      "id": "104",
+      "name": "Realme",
+      "image": "https://cdn1.smartprix.com/rx-i5VijaSv1-w1200-h1200/5VijaSv1.jpg"
+    },
+    {
+      "id": "105",
+      "name": "Nokia",
+      "image": "https://xiaomiui.net/wp-content/themes/xiaomiuiwp/assets/phones/devicephotos/poco_m5s_rosemaryp_3.png"
+    }
+  ]
+}
